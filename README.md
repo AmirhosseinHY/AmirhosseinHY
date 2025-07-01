@@ -3,7 +3,8 @@
 <h3 align="center">Flutter Developer from Tehran, Iran</h3>
 
 <p align="center">
-  Currently enrolled in a Flutter Expert course and passionate about building mobile applications using Flutter and Dart.
+  Currently pursuing a Flutter Expert course to enhance skills in cross-platform mobile app development
+  and passionate about building mobile applications using Flutter and Dart.
 </p>
 
 ---
