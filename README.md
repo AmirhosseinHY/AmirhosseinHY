@@ -1,9 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Amirhossein Homayouni</h1>
-<h3 align="center">Flutter Developer from Tehran, Iran</h3>
+<h1>Hi 👋, I'm Amirhossein Homayouni</h1>
+<h3>Flutter Developer from Tehran, Iran</h3>
 
-<p align="center">
-  Currently pursuing a Flutter Expert course to enhance skills in cross-platform mobile app development <br> and passionate about building mobile applications using Flutter and Dart.
+<p>
+  Currently pursuing a Flutter Expert course to enhance skills in cross-platform mobile app development  and passionate about building mobile applications using Flutter and Dart.
 </p>
 
 ---
@@ -21,11 +21,7 @@
 
 ## 🚀 Featured Project
 
-<p align="center">
-  <a href="https://github.com/AmirhosseinHY/crypto-predictor-app">
-    <img src="https://img.shields.io/badge/Crypto%20Predictor%20App-%20Click%20to%20View-informational?style=for-the-badge&logo=github" />
-  </a>
-</p>
+[![Crypto RecommenderSystem App](https://github-readme-stats.vercel.app/api/pin/?username=AmirhosseinHY&show_owner=true&theme=rose_pine&repo=crypto-predictor-app)](https://github.com/AmirhosseinHY/crypto-predictor-app)
 
 ---
 
